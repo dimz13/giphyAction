@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Giphy Comic Search</title>
+    <script src="assets/js/giphyLogic.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container cont">
+                <h1 class="display-4">Fun with comic book characters</h1>
+                <p class="lead">Click on the buttons displayed to get some images from and of comic characters.Click on
+                    the images to watch them in action. Dont find your favorites? Use the text box to add your favorite
+                    comic book character!!</p>
+            </div>
+        </div>
+
+        <!-- Comics Buttons will be created Here -->
+        <div id="buttons-view"></div>
+
+        <form id="comic-form">Enter your favorite comic book character</label>
+            <input type="text" id="comic-input"><br>
+
+            <!-- Button triggers new comic to be added -->
+            <input id="add-comic" type="submit" value="Add a Comic">
+        </form>
+        <div class="container">
+            <div id="comic-view"></div>
+        </div>
+
+
+
+    </div>
+</body>
+<script>
+    giphyLogic();
+</script>
+
+</html>

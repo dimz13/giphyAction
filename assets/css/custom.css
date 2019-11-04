@@ -1,0 +1,39 @@
+.jumbotron{
+    background-color: rgba(29, 151, 196, 0.563) !important;
+}
+.cont{
+text-align: center;
+color: rgba(205, 104, 50, 0.865);
+}
+
+.comic{
+    background-color: rgba(121, 140, 24, 0.365);
+    border-radius: 5px;
+    margin:10px;
+    font-weight:bold;
+}
+
+form{
+float: right;
+}
+
+#comic-form{
+    font-weight:bold; 
+}
+#comic-input{
+    border-style: solid;
+    background-color: rgba(69, 146, 205, 0.187);
+}
+#add-comic{
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    margin-left: 340px;
+    margin-top:10px;
+    font-weight: bold;
+}
+
+.comic-view{
+    float:left;
+    width:33.33%;
+    padding: 25px;
+}
