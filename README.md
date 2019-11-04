@@ -1,6 +1,6 @@
 # giphyAction
 
-![Giphygif](/gify.gif)
+![Giphygif](/giphy.gif)
 
 # giphy
 [GiphyAction] (https://dimz13.github.io/giphyAction/.)
