@@ -1,8 +1,9 @@
 # giphyAction
-
+- A Preview:
 ![Giphygif](/giphy.gif)
 
 # giphy
+- Link to the Giphy Action page:
 [GiphyAction] (https://dimz13.github.io/giphyAction/.)
 
 ## How it works
