@@ -6,6 +6,9 @@
 - Link to the Giphy Action page:
 [GiphyAction] (https://dimz13.github.io/giphyAction/.)
 
+
+### Linked to Gif In Action From Basic Portfolio
+
 ## How it works
   - This page will allow user to click on the buttons to search and display gifs
   - User can add a button of their favorite comic book character, using the text box and "add a comic"    button.
